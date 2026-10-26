@@ -1,0 +1,242 @@
+[
+    {
+        "id":  1,
+        "name":  "Polda Jatim",
+        "url":  "https://tribratanews.jatim.polri.go.id/",
+        "region":  "Polda Jatim"
+    },
+    {
+        "id":  2,
+        "name":  "Polrestabes Surabaya",
+        "url":  "https://tribratanews.restabessurabaya.jatim.polri.go.id/",
+        "region":  "Surabaya"
+    },
+    {
+        "id":  3,
+        "name":  "Polres Pelabuhan Tanjung Perak",
+        "url":  "https://tribratanews.restanjungperak.jatim.polri.go.id/",
+        "region":  "Surabaya / Pelabuhan"
+    },
+    {
+        "id":  4,
+        "name":  "Polresta Sidoarjo",
+        "url":  "https://tribratanews.restasidoarjo.jatim.polri.go.id/",
+        "region":  "Sidoarjo"
+    },
+    {
+        "id":  5,
+        "name":  "Polres Gresik",
+        "url":  "https://tribratanews.resgresik.jatim.polri.go.id/",
+        "region":  "Gresik"
+    },
+    {
+        "id":  6,
+        "name":  "Polres Mojokerto Kota",
+        "url":  "https://tribratanews.mojokertokota.jatim.polri.go.id/",
+        "region":  "Mojokerto Kota"
+    },
+    {
+        "id":  7,
+        "name":  "Polres Mojokerto",
+        "url":  "https://tribratanews.resmojokerto.jatim.polri.go.id/",
+        "region":  "Mojokerto Kabupaten"
+    },
+    {
+        "id":  8,
+        "name":  "Polresta Malang Kota",
+        "url":  "https://tribratanews.malangkota.jatim.polri.go.id/",
+        "region":  "Malang Kota"
+    },
+    {
+        "id":  9,
+        "name":  "Polres Malang",
+        "url":  "https://tribratanews.resmalang.jatim.polri.go.id/",
+        "region":  "Malang Kabupaten"
+    },
+    {
+        "id":  10,
+        "name":  "Polres Batu",
+        "url":  "https://tribratanews.resbatu.jatim.polri.go.id/",
+        "region":  "Batu Kota"
+    },
+    {
+        "id":  11,
+        "name":  "Polres Pasuruan Kota",
+        "url":  "https://tribratanews.respasuruankota.jatim.polri.go.id/",
+        "region":  "Pasuruan Kota"
+    },
+    {
+        "id":  12,
+        "name":  "Polres Pasuruan",
+        "url":  "https://tribratanews.respasuruan.jatim.polri.go.id/",
+        "region":  "Pasuruan Kabupaten"
+    },
+    {
+        "id":  13,
+        "name":  "Polres Probolinggo Kota",
+        "url":  "https://tribratanews.resprobolinggokota.jatim.polri.go.id/",
+        "region":  "Probolinggo Kota"
+    },
+    {
+        "id":  14,
+        "name":  "Polres Probolinggo",
+        "url":  "https://tribratanews.resprobolinggo.jatim.polri.go.id/",
+        "region":  "Probolinggo Kabupaten"
+    },
+    {
+        "id":  15,
+        "name":  "Polres Lumajang",
+        "url":  "https://tribratanews.reslumajang.jatim.polri.go.id/",
+        "region":  "Lumajang"
+    },
+    {
+        "id":  16,
+        "name":  "Polres Jember",
+        "url":  "https://tribratanews.resjember.jatim.polri.go.id/",
+        "region":  "Jember"
+    },
+    {
+        "id":  17,
+        "name":  "Polres Bondowoso",
+        "url":  "https://tribratanews.resbondowoso.jatim.polri.go.id/",
+        "region":  "Bondowoso"
+    },
+    {
+        "id":  18,
+        "name":  "Polres Situbondo",
+        "url":  "https://tribratanews.ressitubondo.jatim.polri.go.id/",
+        "region":  "Situbondo"
+    },
+    {
+        "id":  19,
+        "name":  "Polresta Banyuwangi",
+        "url":  "https://tribratanews.restabanyuwangi.jatim.polri.go.id/",
+        "region":  "Banyuwangi"
+    },
+    {
+        "id":  20,
+        "name":  "Polres Kediri Kota",
+        "url":  "https://tribratanews.restakediri.jatim.polri.go.id/",
+        "region":  "Kediri Kota"
+    },
+    {
+        "id":  21,
+        "name":  "Polres Kediri",
+        "url":  "https://tribratanews.reskediri.jatim.polri.go.id/",
+        "region":  "Kediri Kabupaten"
+    },
+    {
+        "id":  22,
+        "name":  "Polres Blitar Kota",
+        "url":  "https://tribratanews.restablitar.jatim.polri.go.id/",
+        "region":  "Blitar Kota"
+    },
+    {
+        "id":  23,
+        "name":  "Polres Blitar",
+        "url":  "https://tribratanews.resblitar.jatim.polri.go.id/",
+        "region":  "Blitar Kabupaten"
+    },
+    {
+        "id":  24,
+        "name":  "Polres Tulungagung",
+        "url":  "https://tribratanews.restulungagung.jatim.polri.go.id/",
+        "region":  "Tulungagung"
+    },
+    {
+        "id":  25,
+        "name":  "Polres Trenggalek",
+        "url":  "https://tribratanews.restrenggalek.jatim.polri.go.id/",
+        "region":  "Trenggalek"
+    },
+    {
+        "id":  26,
+        "name":  "Polres Nganjuk",
+        "url":  "https://tribratanews.resnganjuk.jatim.polri.go.id/",
+        "region":  "Nganjuk"
+    },
+    {
+        "id":  27,
+        "name":  "Polres Madiun Kota",
+        "url":  "https://tribratanews.resmadiunkota.jatim.polri.go.id/",
+        "region":  "Madiun Kota"
+    },
+    {
+        "id":  28,
+        "name":  "Polres Madiun",
+        "url":  "https://tribratanews.madiun.jatim.polri.go.id/",
+        "region":  "Madiun Kabupaten"
+    },
+    {
+        "id":  29,
+        "name":  "Polres Ngawi",
+        "url":  "https://tribratanews.resngawi.jatim.polri.go.id/",
+        "region":  "Ngawi"
+    },
+    {
+        "id":  30,
+        "name":  "Polres Magetan",
+        "url":  "https://tribratanews.magetan.jatim.polri.go.id/",
+        "region":  "Magetan"
+    },
+    {
+        "id":  31,
+        "name":  "Polres Ponorogo",
+        "url":  "https://tribratanews.responorogo.jatim.polri.go.id/",
+        "region":  "Ponorogo"
+    },
+    {
+        "id":  32,
+        "name":  "Polres Pacitan",
+        "url":  "https://tribratanews.respacitan.jatim.polri.go.id/",
+        "region":  "Pacitan"
+    },
+    {
+        "id":  33,
+        "name":  "Polres Bojonegoro",
+        "url":  "https://tribratanews.resbojonegoro.jatim.polri.go.id/",
+        "region":  "Bojonegoro"
+    },
+    {
+        "id":  34,
+        "name":  "Polresta Tuban",
+        "url":  "https://tribratanews.restuban.jatim.polri.go.id/",
+        "region":  "Tuban"
+    },
+    {
+        "id":  35,
+        "name":  "Polres Lamongan",
+        "url":  "https://tribratanews.reslamongan.jatim.polri.go.id/",
+        "region":  "Lamongan"
+    },
+    {
+        "id":  36,
+        "name":  "Polres Jombang",
+        "url":  "https://tribratanews.jombang.jatim.polri.go.id/",
+        "region":  "Jombang"
+    },
+    {
+        "id":  37,
+        "name":  "Polres Bangkalan",
+        "url":  "https://tribratanews.resbangkalan.jatim.polri.go.id/",
+        "region":  "Bangkalan Madura"
+    },
+    {
+        "id":  38,
+        "name":  "Polres Sampang",
+        "url":  "https://tribratanews.ressampang.jatim.polri.go.id/",
+        "region":  "Sampang Madura"
+    },
+    {
+        "id":  39,
+        "name":  "Polres Pamekasan",
+        "url":  "https://tribratanews.respamekasan.jatim.polri.go.id/",
+        "region":  "Pamekasan Madura"
+    },
+    {
+        "id":  40,
+        "name":  "Polresta Sumenep",
+        "url":  "https://tribratanews.ressumenep.jatim.polri.go.id/",
+        "region":  "Sumenep Madura"
+    }
+]

@@ -1,0 +1,10 @@
+{
+  "name": "polda-jatim/tribratanews-monitoring",
+  "description": "Sistem Monitoring Ketersediaan Website Tribratanews Polda Jawa Timur & Polres Jajaran",
+  "type": "project",
+  "require": {
+    "php": ">=7.4",
+    "ext-curl": "*",
+    "ext-json": "*"
+  }
+}
