@@ -4,11 +4,6 @@
       "runtime": "vercel-php@0.7.3",
       "memory": 1024,
       "maxDuration": 15
-    },
-    "index.php": {
-      "runtime": "vercel-php@0.7.3",
-      "memory": 1024,
-      "maxDuration": 15
     }
   },
   "routes": [
@@ -26,7 +21,7 @@
     },
     {
       "src": "/(.*)",
-      "dest": "/index.php"
+      "dest": "/api/index.php"
     }
   ]
 }
