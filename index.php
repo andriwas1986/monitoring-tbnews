@@ -9,7 +9,7 @@
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%2300f2fe'><path d='M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z'/></svg>">
 
   <!-- Master Executive Stylesheet (100% Self-Contained) -->
-  <link rel="stylesheet" href="assets/css/style.css?v=23.0">
+  <link rel="stylesheet" href="assets/css/style.css?v=24.0">
 </head>
 <body class="theme-light">
 
@@ -448,6 +448,6 @@
   </div>
 
   <!-- MASTER JAVASCRIPT ENGINE -->
-  <script src="assets/js/app.js?v=23.0"></script>
+  <script src="assets/js/app.js?v=24.0"></script>
 </body>
 </html>
