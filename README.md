@@ -79,5 +79,5 @@ Berdasarkan hasil pemindaian langsung:
 - **Beberapa website** merespons langsung **HTTP 200 OK** (misalnya Polres Jombang, Polres Madiun, Polres Magetan).
 - **Beberapa website** mengalami kendala DNS karena penulisan domain:
   - **Trenggalek**: Pada daftar awal tertulis `tribatanews` (kurang huruf 'r'). Domain aktifnya adalah `http://tribratanews.restrenggalek.jatim.polri.go.id/`.
-  - **Sumenep**: Pada daftar awal berakhiran `.polres.go.id`. Domain aktifnya adalah `http://tribratanews.ressumenep.jatim.polri.go.id/`.
+  - **Sumenep**: Domain aktifnya adalah `https://tribratanews.restasumenep.jatim.polri.go.id/`.
   - Anda dapat mengklik tombol **"Detail" -> "Edit Data"** pada kartu website terkait untuk memperbarui URL kapan saja!

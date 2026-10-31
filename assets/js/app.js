@@ -4,7 +4,7 @@
  * 100% Self-Contained, Zero-CDN-Dependency
  */
 
-const CACHE_KEY = 'tribrata_cc_v24';
+const CACHE_KEY = 'tribrata_cc_v25';
 
 const App = {
   sites: [],
